@@ -1,0 +1,76 @@
+body{display:flex;   
+    justify-content:center;}   
+
+.container{
+    position: absolute;
+    top: 30%;
+    transform: translateY(-30%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: cyan;
+padding:30px 20px 80px 20px;
+    width: 90%;
+    border-radius: 10px;}
+    
+    p{font-weight:bold;
+        font-family: "Quantico", sans-serif;
+        text-align: center;
+    font-size:30px;}
+    
+    input{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        width: 80%;
+      height: 50px;
+      margin:10px 0 0;
+      padding-left:10px;
+      border-radius: 6px;
+      font-weight:bold;
+      font-size:20px;}
+      
+       #fix{display:flex;
+justify-content:center;
+width: 100%;
+align-items:center;}
+
+.imgbox{display:flex;
+justify-content:center;
+margin:30px 0;}
+
+.img{
+    border:3px solid black;
+}
+      
+button{
+font-family: "Merienda", cursive;  
+    font-weight:bold;
+    white-space: nowrap;
+    font-size:18px;
+    color:white;
+    background: #28104E;
+    padding: 0px 25px;
+    cursor: pointer;
+    height: 50px;
+    border-radius: 6px;}
+
+button:active{
+ background: #28109E;
+}
+    
+.error{animation:shake 0.1s linear 6;}
+
+@keyframes shake{
+0%{transform:translatex(0);}
+25%{transform:translatex(-3px);}
+50%{transform:translatex(0);}
+75%{transform:translatex(3px);}
+100%{transform:translatex(0);}
+}
+
+@media(min-width:650px){
+.container{
+width: 500px;
+}
+}
