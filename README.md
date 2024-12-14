@@ -19,5 +19,5 @@ A simple web application that generates QR codes for the text or URL entered by 
 
 ### Steps to Run Locally
 1. Clone the repository :
-   ```bash
+  ```bash
    git clone https://github.com/harshad57/QR-code.git
