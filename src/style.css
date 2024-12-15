@@ -72,5 +72,5 @@ button:active{
 @media(min-width:650px){
 .container{
 width: 500px;
-}
+  }
 }
