@@ -1,4 +1,4 @@
-<img src="https://chatgpt.com/share/676073b3-19fc-8003-a424-c4ea19fd6744">
+<img src="https://chatgpt.com/share/676073b3-19fc-8003-a424-c4ea19fd6744"/>
 # QR Code Generator
 
 A simple web application that generates QR codes for the text or URL entered by the user. It uses an external API to create and display the QR code in real-time.
