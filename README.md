@@ -16,8 +16,3 @@ A simple web application that generates QR codes for the text or URL entered by 
 ### JavaScript :-
 - Handles the QR code generation using the [QR Server API](https://goqr.me/api/).
 - Adds a class for error animations when the input field is empty.
-
-### Steps to Run Locally
-1. Clone the repository :
-  ```bash
-   git clone https://github.com/harshad57/QR-code.git
