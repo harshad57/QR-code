@@ -30,11 +30,7 @@ To get a local copy up and running, follow these steps:
    ```bash 
    npm install
 
-4. Install additional required packages
-   ```bash
-   npm install axios
-
-5. Start the development server
+4. Start the development server
    ```bash
    npm run dev
 
