@@ -11,7 +11,7 @@ This repository contains a QR Code generator built using HTML, CSS, and JavaScri
 ## Technologies Used
 
 - **[HTML](index.html)**: Structure of the web pages
-- **CSS**: Styling of the web pages
+- **[CSS](src/style.css)**: Styling of the web pages
 - **JavaScript**: Logic for generating QR codes
 
 ## Getting Started
