@@ -1,3 +1,4 @@
+Live :- https://qrcode-harshad57.vercel.app
 # QR Code Generator
 
 This repository contains a QR Code generator built using HTML, CSS, and JavaScript.
