@@ -3,19 +3,19 @@ Live :- https://qrcode-harshad57.vercel.app
 
 This repository contains a QR Code generator built using HTML, CSS, and JavaScript.
 
-## Features
+## Features :-
 
 - Generate QR codes from text input
 - Download generated QR codes as images
 - Responsive design
 
-## Technologies Used
+## Technologies Used :-
 
 - **[HTML](index.html)** : Structure of the web pages
 - **[CSS](src/index.css)** : Styling of the web pages
 - **[JavaScript (react js)](src/App.jsx)** : Logic for generating QR codes
 
-## Getting Started
+## Getting Started :-
 
 To get a local copy up and running, follow these steps:
 
